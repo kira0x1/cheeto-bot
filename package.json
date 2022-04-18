@@ -1,0 +1,16 @@
+{
+  "name": "cheeto-bot",
+  "version": "1.0.0",
+  "main": "app.js",
+  "author": "kira0x1 <kira.eva@protonmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "start": "node ."
+  },
+  "dependencies": {
+    "discord.js": "^13.6.0"
+  },
+  "devDependencies": {
+    "dotenv": "^16.0.0"
+  }
+}
